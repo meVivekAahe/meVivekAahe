@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm [Aman](https://github.com/jainismvivek) 👨‍💻
+### Hi there 👋, I'm [Vivek](https://github.com/jainismvivek) 👨‍💻
 
 <br/>
 
