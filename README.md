@@ -1,96 +1,31 @@
-# **Example README File**
+<h1 align="center">Hi 👋, I'm vivek</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-## **Project Title**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainismvivek&label=Profile%20views&color=0e75b6&style=flat" alt="jainismvivek" /> </p>
 
-Project Title is a description of the project and its purpose.
+- 🔭 I’m currently working on **Bill Split**
 
-## **Introduction**
+- 🌱 I’m currently learning **React**
 
-Project Title is a project that does something useful. It was created to solve a particular problem, and it provides a solution that is better than the alternatives.
+- 👯 I’m looking to collaborate on **Upskill india**
 
-## **Installation**
+- 🤝 I’m looking for help with **Bidding system and marketplace**
 
-To install Project Title, follow these steps:
+- 💬 Ask me about **java , spring Boot ,**
 
-1. Clone the repository: **`git clone https://github.com/username/project-title.git`**
-2. Navigate to the project directory: **`cd project-title`**
-3. Install dependencies: **`npm install`**
-4. Build the project: **`npm run build`**
-5. Start the project: **`npm start`**
+- 📫 How to reach me **vivek.jainism@outlook.com**
 
-## **Usage**
+- ⚡ Fun fact **i like to work as with cool people**
 
-To use Project Title, follow these steps:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jainismvivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainismvivek" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jainismvivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainismvivek" height="30" width="40" /></a>
+</p>
 
-1. Open the project in your favorite code editor.
-2. Modify the source code to fit your needs.
-3. Build the project: **`npm run build`**
-4. Start the project: **`npm start`**
-5. Use the project as desired.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## **Contributing**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainismvivek&show_icons=true&locale=en&layout=compact" alt="jainismvivek" /></p>
 
-If you'd like to contribute to Project Title, here are some guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes.
-4. Write tests to cover your changes.
-5. Run the tests to ensure they pass.
-6. Commit your changes.
-7. Push your changes to your forked repository.
-8. Submit a pull request.
-
-## **License**
-
-Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
-## **Authors and Acknowledgment**
-
-Project Title was created by **[Your Name](https://github.com/username)**.
-
-Additional contributors include:
-
-- **[Contributor Name](https://github.com/contributor-name)**
-- **[Another Contributor](https://github.com/another-contributor)**
-
-Thank you to all the contributors for their hard work and dedication to the project.
-
-## **Code of Conduct**
-
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
-
-## **FAQ**
-
-**Q:** What is Project Title?
-
-**A:** Project Title is a project that does something useful.
-
-**Q:** How do I install Project Title?
-
-**A:** Follow the installation steps in the README file.
-
-**Q:** How do I use Project Title?
-
-**A:** Follow the usage steps in the README file.
-
-**Q:** How do I contribute to Project Title?
-
-**A:** Follow the contributing guidelines in the README file.
-
-**Q:** What license is Project Title released under?
-
-**A:** Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
-## **Changelog**
-
-- **0.1.0:** Initial release
-- **0.1.1:** Fixed a bug in the build process
-- **0.2.0:** Added a new feature
-- **0.2.1:** Fixed a bug in the new feature
-
-## **Contact**
-
-If you have any questions or comments about Project Title, please contact **[Your Name](you@example.com)**.
-
-## **Conclusion**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainismvivek&show_icons=true&locale=en" alt="jainismvivek" /></p>
